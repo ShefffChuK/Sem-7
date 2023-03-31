@@ -1,0 +1,15 @@
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\bin\Debug\net7.0\Sm7Task02.exe
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\bin\Debug\net7.0\Sm7Task02.deps.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\bin\Debug\net7.0\Sm7Task02.runtimeconfig.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\bin\Debug\net7.0\Sm7Task02.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\bin\Debug\net7.0\Sm7Task02.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.csproj.AssemblyReference.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.AssemblyInfoInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.AssemblyInfo.cs
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.csproj.CoreCompileInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\refint\Sm7Task02.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\Sm7Task02.genruntimeconfig.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\Sm7Task02\obj\Debug\net7.0\ref\Sm7Task02.dll

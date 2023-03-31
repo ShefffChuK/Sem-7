@@ -1,0 +1,15 @@
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\bin\Debug\net7.0\Sem 7 prog.exe
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\bin\Debug\net7.0\Sem 7 prog.deps.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\bin\Debug\net7.0\Sem 7 prog.runtimeconfig.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\bin\Debug\net7.0\Sem 7 prog.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\bin\Debug\net7.0\Sem 7 prog.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.csproj.AssemblyReference.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.AssemblyInfoInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.AssemblyInfo.cs
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.csproj.CoreCompileInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\refint\Sem 7 prog.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\Sem 7 prog.genruntimeconfig.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 7 prog\obj\Debug\net7.0\ref\Sem 7 prog.dll
